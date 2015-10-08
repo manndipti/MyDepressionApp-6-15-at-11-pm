@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="MyDepressionApp/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="8ie-xW-0ye.text">
+        <source>  Copyright (c) 2015 Dipti. All rights reserved.</source>
+        <target>  Copyright (c) 2015 Dipti. All rights reserved.</target>
+        <note>Class = "UILabel"; text = "  Copyright (c) 2015 Dipti. All rights reserved."; ObjectID = "8ie-xW-0ye";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyDepressionApp/Base.lproj/Main.storyboard" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="3wo-6o-Ybw.text">
+        <source>You Are Stronger Than You Think</source>
+        <target>Eres Más Fuerte De Lo Que Piensas</target>
+        <note>Class = "UILabel"; text = "You Are Stronger Than You Think"; ObjectID = "3wo-6o-Ybw";</note>
+      </trans-unit>
+      <trans-unit id="6Hi-cM-axU.placeholder">
+        <source>Password</source>
+        <target>Contraseña</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "6Hi-cM-axU";</note>
+      </trans-unit>
+      <trans-unit id="8WZ-wg-kk7.placeholder">
+        <source>Search</source>
+        <target>Búsqueda</target>
+        <note>Class = "UITextField"; placeholder = "Search"; ObjectID = "8WZ-wg-kk7";</note>
+      </trans-unit>
+      <trans-unit id="9JY-F0-5OL.title">
+        <source>Quotes</source>
+        <target>Comillas</target>
+        <note>Class = "UINavigationItem"; title = "Quotes"; ObjectID = "9JY-F0-5OL";</note>
+      </trans-unit>
+      <trans-unit id="95Q-oZ-D9T.title">
+        <source>Explore</source>
+        <target>Explorar</target>
+        <note>Class = "UINavigationItem"; title = "Explore"; ObjectID = "95Q-oZ-D9T";</note>
+      </trans-unit>
+      <trans-unit id="AlQ-A2-VQb.normalTitle">
+        <source>Load Video</source>
+        <target>Cargar Vídeo</target>
+        <note>Class = "UIButton"; normalTitle = "Load Video"; ObjectID = "AlQ-A2-VQb";</note>
+      </trans-unit>
+      <trans-unit id="B8I-zE-bIt.placeholder">
+        <source>User Id</source>
+        <target>Id Usuario</target>
+        <note>Class = "UITextField"; placeholder = "User Id"; ObjectID = "B8I-zE-bIt";</note>
+      </trans-unit>
+      <trans-unit id="BHO-Fk-nPP.placeholder">
+        <source>User Email</source>
+        <target>User Correo electrónico</target>
+        <note>Class = "UITextField"; placeholder = "User Email"; ObjectID = "BHO-Fk-nPP";</note>
+      </trans-unit>
+      <trans-unit id="Cwj-QJ-5f5.normalTitle">
+        <source>Life</source>
+        <target>vida</target>
+        <note>Class = "UIButton"; normalTitle = "Life"; ObjectID = "Cwj-QJ-5f5";</note>
+      </trans-unit>
+      <trans-unit id="D9V-2Y-xF7.normalTitle">
+        <source>Sign Up</source>
+        <target>Contratar</target>
+        <note>Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "D9V-2Y-xF7";</note>
+      </trans-unit>
+      <trans-unit id="FnB-xp-RW8.normalTitle">
+        <source>To know more about Beat Depression Please sign In </source>
+        <target>Para saber más sobre Beat Depresión golpe favor inicie sesión </target>
+        <note>Class = "UIButton"; normalTitle = "To know more about Beat Depression Please sign In "; ObjectID = "FnB-xp-RW8";</note>
+      </trans-unit>
+      <trans-unit id="HU5-Ud-ugS.normalTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIButton"; normalTitle = " "; ObjectID = "HU5-Ud-ugS";</note>
+      </trans-unit>
+      <trans-unit id="I53-Zz-sRi.title">
+        <source>Tic tac toe</source>
+        <target>Tic tac toe</target>
+        <note>Class = "UITabBarItem"; title = "Tic tac toe"; ObjectID = "I53-Zz-sRi";</note>
+      </trans-unit>
+      <trans-unit id="Iq3-z9-vla.normalTitle">
+        <source>Love</source>
+        <target>Amor</target>
+        <note>Class = "UIButton"; normalTitle = "Love"; ObjectID = "Iq3-z9-vla";</note>
+      </trans-unit>
+      <trans-unit id="J2A-hK-iSb.text">
+        <source>Image Matching Game</source>
+        <target>Image Matching Game</target>
+        <note>Class = "UILabel"; text = "Image Matching Game"; ObjectID = "J2A-hK-iSb";</note>
+      </trans-unit>
+      <trans-unit id="JMk-Lz-MSb.title">
+        <source>Photo</source>
+        <target>Foto</target>
+        <note>Class = "UINavigationItem"; title = "Photo"; ObjectID = "JMk-Lz-MSb";</note>
+      </trans-unit>
+      <trans-unit id="KcN-SZ-sQE.text">
+        <source>Label</source>
+        <target>Label</target>
+        <note>Class = "UILabel"; text = "Label"; ObjectID = "KcN-SZ-sQE";</note>
+      </trans-unit>
+      <trans-unit id="M7k-uz-eu2.normalTitle">
+        <source>Next</source>
+        <target>Siguiente</target>
+        <note>Class = "UIButton"; normalTitle = "Next"; ObjectID = "M7k-uz-eu2";</note>
+      </trans-unit>
+      <trans-unit id="NHA-mk-HIu.normalTitle">
+        <source>Load Playlist</source>
+        <target>Playlist Load</target>
+        <note>Class = "UIButton"; normalTitle = "Load Playlist"; ObjectID = "NHA-mk-HIu";</note>
+      </trans-unit>
+      <trans-unit id="ONU-nZ-yHQ.text">
+        <source>Believe With All Your Heart</source>
+        <target>Creo con todo su corazón</target>
+        <note>Class = "UILabel"; text = "Believe With All Your Heart"; ObjectID = "ONU-nZ-yHQ";</note>
+      </trans-unit>
+      <trans-unit id="OXi-Cr-35M.text">
+        <source>Beat Depression</source>
+        <target>Beat Depression</target>
+        <note>Class = "UILabel"; text = "Beat Depression"; ObjectID = "OXi-Cr-35M";</note>
+      </trans-unit>
+      <trans-unit id="UFu-h9-ed3.text">
+        <source>Get 3 in a Row to Win</source>
+        <target>Obtén 3 en una fila para ganar</target>
+        <note>Class = "UILabel"; text = "Get 3 in a Row to Win"; ObjectID = "UFu-h9-ed3";</note>
+      </trans-unit>
+      <trans-unit id="VhP-fe-ngH.title">
+        <source>Quotes List Selections</source>
+        <target>Cotizaciones Lista Selecciones</target>
+        <note>Class = "UINavigationItem"; title = "Quotes List Selections"; ObjectID = "VhP-fe-ngH";</note>
+      </trans-unit>
+      <trans-unit id="YIZ-DN-D9Z.normalTitle">
+        <source>Prev</source>
+        <target>Anterior</target>
+        <note>Class = "UIButton"; normalTitle = "Prev"; ObjectID = "YIZ-DN-D9Z";</note>
+      </trans-unit>
+      <trans-unit id="aAJ-ou-cHC.title">
+        <source>Imagination</source>
+        <target>Imaginación</target>
+        <note>Class = "UITabBarItem"; title = "Imagination"; ObjectID = "aAJ-ou-cHC";</note>
+      </trans-unit>
+      <trans-unit id="b5m-d1-jzo.placeholder">
+        <source>Password</source>
+        <target>Contraseña</target>
+        <note>Class = "UITextField"; placeholder = "Password"; ObjectID = "b5m-d1-jzo";</note>
+      </trans-unit>
+      <trans-unit id="bJ7-3H-7Dj.normalTitle">
+        <source>More</source>
+        <target>Más</target>
+        <note>Class = "UIButton"; normalTitle = "More"; ObjectID = "bJ7-3H-7Dj";</note>
+      </trans-unit>
+      <trans-unit id="c9V-56-pgP.placeholder">
+        <source>User Name</source>
+        <target>Nombre de Usuario</target>
+        <note>Class = "UITextField"; placeholder = "User Name"; ObjectID = "c9V-56-pgP";</note>
+      </trans-unit>
+      <trans-unit id="dRW-Da-YaU.normalTitle">
+        <source>Sign Up</source>
+        <target>Contratar</target>
+        <note>Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "dRW-Da-YaU";</note>
+      </trans-unit>
+      <trans-unit id="eEi-so-zg9.text">
+        <source>Achieve With All Your Might</source>
+        <target>Lograr con toda s</target>
+        <note>Class = "UILabel"; text = "Achieve With All Your Might"; ObjectID = "eEi-so-zg9";</note>
+      </trans-unit>
+      <trans-unit id="eOv-Hk-j6B.normalTitle">
+        <source>Sign In</source>
+        <target>Ingresar</target>
+        <note>Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "eOv-Hk-j6B";</note>
+      </trans-unit>
+      <trans-unit id="erf-pK-9fA.title">
+        <source>Sign In</source>
+        <target>Ingresar</target>
+        <note>Class = "UINavigationItem"; title = "Sign In"; ObjectID = "erf-pK-9fA";</note>
+      </trans-unit>
+      <trans-unit id="fwn-bz-Php.normalTitle">
+        <source>Motivational</source>
+        <target>Motivacional</target>
+        <note>Class = "UIButton"; normalTitle = "Motivational"; ObjectID = "fwn-bz-Php";</note>
+      </trans-unit>
+      <trans-unit id="igr-YK-sXe.title">
+        <source>Quote Detail View</source>
+        <target>Cita Detallado</target>
+        <note>Class = "UINavigationItem"; title = "Quote Detail View"; ObjectID = "igr-YK-sXe";</note>
+      </trans-unit>
+      <trans-unit id="jHb-fM-lYf.title">
+        <source>Music Playlist</source>
+        <target>Reproducción de música</target>
+        <note>Class = "UINavigationItem"; title = "Music Playlist"; ObjectID = "jHb-fM-lYf";</note>
+      </trans-unit>
+      <trans-unit id="k3G-rn-9As.title">
+        <source>Beat Depression</source>
+        <target>Beat Depression</target>
+        <note>Class = "UINavigationItem"; title = "Beat Depression"; ObjectID = "k3G-rn-9As";</note>
+      </trans-unit>
+      <trans-unit id="n1b-gG-Qao.normalTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UIButton"; normalTitle = " "; ObjectID = "n1b-gG-Qao";</note>
+      </trans-unit>
+      <trans-unit id="sAf-o2-JGE.normalTitle">
+        <source>Play</source>
+        <target>Reproducir</target>
+        <note>Class = "UIButton"; normalTitle = "Play"; ObjectID = "sAf-o2-JGE";</note>
+      </trans-unit>
+      <trans-unit id="srG-eD-gqk.normalTitle">
+        <source>Sign In Using FaceBook</source>
+        <target>Inicia sesión a través de Facebook</target>
+        <note>Class = "UIButton"; normalTitle = "Sign In Using FaceBook"; ObjectID = "srG-eD-gqk";</note>
+      </trans-unit>
+      <trans-unit id="t72-r9-ZAL.title">
+        <source>Log Out</source>
+        <target>Cerrar la sesión</target>
+        <note>Class = "UIBarButtonItem"; title = "Log Out"; ObjectID = "t72-r9-ZAL";</note>
+      </trans-unit>
+      <trans-unit id="uT8-kI-yFJ.text">
+        <source>Do More Of What Makes You Happy</source>
+        <target>Hacer más de lo que te hace feliz</target>
+        <note>Class = "UILabel"; text = "Do More Of What Makes You Happy"; ObjectID = "uT8-kI-yFJ";</note>
+      </trans-unit>
+      <trans-unit id="uUw-qy-RSf.normalTitle">
+        <source>Play Again?</source>
+        <target>Jugar otra vez?</target>
+        <note>Class = "UIButton"; normalTitle = "Play Again?"; ObjectID = "uUw-qy-RSf";</note>
+      </trans-unit>
+      <trans-unit id="v4b-sU-wOs.normalTitle">
+        <source>Family</source>
+        <target>Familia</target>
+        <note>Class = "UIButton"; normalTitle = "Family"; ObjectID = "v4b-sU-wOs";</note>
+      </trans-unit>
+      <trans-unit id="yFl-a2-FCS.text">
+        <source>Imagine With All Your Mind</source>
+        <target>Imagino que con toda tu mente</target>
+        <note>Class = "UILabel"; text = "Imagine With All Your Mind"; ObjectID = "yFl-a2-FCS";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyDepressionApp/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="MyDepressionAppTests/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="YouTubePlayer/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="YouTubePlayerTests/Info.plist" source-language="en" datatype="plaintext" target-language="es">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="6.3.2" build-num="6D2105"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

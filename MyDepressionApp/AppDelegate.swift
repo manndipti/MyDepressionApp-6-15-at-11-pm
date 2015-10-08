@@ -7,15 +7,29 @@
 //
 
 import UIKit
+import Parse
+
+let themeColor = UIColor(red: 0.01, green: 0.41, blue: 0.22, alpha: 1.0)
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
+        window?.tintColor = themeColor
+        UINavigationBar.appearance().barTintColor = UIColor(red: 185.0/255.0, green: 231.0/255.0, blue: 132.0/255.0, alpha: 1.0)
+
+        UINavigationBar.appearance().tintColor = UIColor.whiteColor()
+        UINavigationBar.appearance().titleTextAttributes = [NSForegroundColorAttributeName : UIColor.whiteColor()]
+        
         // Override point for customization after application launch.
+        Parse.setApplicationId("TMi5KkjAjQ5s1kfm4KaLuGehpNbGDTO8vVQlkSD7", clientKey: "tieESfKi9z3qFSAZFwZAG9UdWEAkC8lHQDUNnbDm")
+        
+        PFAnalytics.trackAppOpenedWithLaunchOptions(launchOptions)
+      
+        PFFacebookUtils.initializeFacebookWithApplicationLaunchOptions(launchOptions)
         return true
     }
 
@@ -34,13 +48,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationDidBecomeActive(application: UIApplication) {
-        // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+        FBSDKAppEvents.activateApp()
     }
 
     func applicationWillTerminate(application: UIApplication) {
         // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
     }
-
+    
+    func application( application: UIApplication,
+        openUrl url: NSURL,
+        sourceApplication: String?,
+        annotation: AnyObject?) -> Bool {
+            return FBSDKApplicationDelegate.sharedInstance().application(application, openURL: url, sourceApplication: sourceApplication, annotation: annotation)
+    }
 
 }
 

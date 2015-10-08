@@ -1,0 +1,132 @@
+/* Class = "UILabel"; text = "You Are Stronger Than You Think"; ObjectID = "3wo-6o-Ybw"; */
+"3wo-6o-Ybw.text" = "आप आपके विचार से ज्यादा मजबूत हैं।";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6Hi-cM-axU"; */
+"6Hi-cM-axU.placeholder" = "पासवर्ड";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "8WZ-wg-kk7"; */
+"8WZ-wg-kk7.placeholder" = "खोज";
+
+/* Class = "UINavigationItem"; title = "Quotes"; ObjectID = "9JY-F0-5OL"; */
+"9JY-F0-5OL.title" = "उद्धरण";
+
+/* Class = "UINavigationItem"; title = "Explore"; ObjectID = "95Q-oZ-D9T"; */
+"95Q-oZ-D9T.title" = "अन्वेषण";
+
+/* Class = "UIButton"; normalTitle = "Load Video"; ObjectID = "AlQ-A2-VQb"; */
+"AlQ-A2-VQb.normalTitle" = "वीडियो लोड करें";
+
+/* Class = "UITextField"; placeholder = "User Id"; ObjectID = "B8I-zE-bIt"; */
+"B8I-zE-bIt.placeholder" = "उपयोगकर्ता आईडी";
+
+/* Class = "UITextField"; placeholder = "User Email"; ObjectID = "BHO-Fk-nPP"; */
+"BHO-Fk-nPP.placeholder" = "उपयोगकर्ता ईमेल";
+
+/* Class = "UIButton"; normalTitle = "Life"; ObjectID = "Cwj-QJ-5f5"; */
+"Cwj-QJ-5f5.normalTitle" = "जीवन";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "D9V-2Y-xF7"; */
+"D9V-2Y-xF7.normalTitle" = "साइन अप";
+
+/* Class = "UIButton"; normalTitle = "To know more about Beat Depression Please sign In "; ObjectID = "FnB-xp-RW8"; */
+"FnB-xp-RW8.normalTitle" = "Beat Depression के बारे में अधिक जानकारी के लिए कृपया साइन इन करें ";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "HU5-Ud-ugS"; */
+"HU5-Ud-ugS.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "Tic tac toe"; ObjectID = "I53-Zz-sRi"; */
+"I53-Zz-sRi.title" = "टिक टैक् टो";
+
+/* Class = "UIButton"; normalTitle = "Love"; ObjectID = "Iq3-z9-vla"; */
+"Iq3-z9-vla.normalTitle" = "प्यार";
+
+/* Class = "UILabel"; text = "Image Matching Game"; ObjectID = "J2A-hK-iSb"; */
+"J2A-hK-iSb.text" = "छवि मिलान खेल";
+
+/* Class = "UINavigationItem"; title = "Photo"; ObjectID = "JMk-Lz-MSb"; */
+"JMk-Lz-MSb.title" = "फ़ोटो";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KcN-SZ-sQE"; */
+"KcN-SZ-sQE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "M7k-uz-eu2"; */
+"M7k-uz-eu2.normalTitle" = "अगला";
+
+/* Class = "UIButton"; normalTitle = "Load Playlist"; ObjectID = "NHA-mk-HIu"; */
+"NHA-mk-HIu.normalTitle" = "प्लेलिस्ट लोड करें ";
+
+/* Class = "UILabel"; text = "Believe With All Your Heart"; ObjectID = "ONU-nZ-yHQ"; */
+"ONU-nZ-yHQ.text" = "अपने दिल से विश्वास करें  ";
+
+/* Class = "UILabel"; text = "Beat Depression"; ObjectID = "OXi-Cr-35M"; */
+"OXi-Cr-35M.text" = "Beat Depression";
+
+/* Class = "UILabel"; text = "Get 3 in a Row to Win"; ObjectID = "UFu-h9-ed3"; */
+"UFu-h9-ed3.text" = "एक पंक्ति में 3 मिलने जीतने के लिए ";
+
+/* Class = "UINavigationItem"; title = "Quotes List Selections"; ObjectID = "VhP-fe-ngH"; */
+"VhP-fe-ngH.title" = "सूची चयन उद्धरण";
+
+/* Class = "UIButton"; normalTitle = "Prev"; ObjectID = "YIZ-DN-D9Z"; */
+"YIZ-DN-D9Z.normalTitle" = "Prev";
+
+/* Class = "UITabBarItem"; title = "Imagination"; ObjectID = "aAJ-ou-cHC"; */
+"aAJ-ou-cHC.title" = "कल्पना";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "b5m-d1-jzo"; */
+"b5m-d1-jzo.placeholder" = "पासवर्ड";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "bJ7-3H-7Dj"; */
+"bJ7-3H-7Dj.normalTitle" = "बहुत अधिक";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "c9V-56-pgP"; */
+"c9V-56-pgP.placeholder" = "उपयोगकर्ता नाम";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "dRW-Da-YaU"; */
+"dRW-Da-YaU.normalTitle" = "साइन अप";
+
+/* Class = "UILabel"; text = "Achieve With All Your Might"; ObjectID = "eEi-so-zg9"; */
+"eEi-so-zg9.text" = "अपनी पूरी ताकत के साथ प्राप्त करो";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "eOv-Hk-j6B"; */
+"eOv-Hk-j6B.normalTitle" = "साइन इन";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "erf-pK-9fA"; */
+"erf-pK-9fA.title" = "साइन इन";
+
+/* Class = "UIButton"; normalTitle = "Motivational"; ObjectID = "fwn-bz-Php"; */
+"fwn-bz-Php.normalTitle" = "प्रेरक";
+
+/* Class = "UINavigationItem"; title = "Quote Detail View"; ObjectID = "igr-YK-sXe"; */
+"igr-YK-sXe.title" = "उद्धरण विस्तृत विचार ";
+
+/* Class = "UINavigationItem"; title = "Music Playlist"; ObjectID = "jHb-fM-lYf"; */
+"jHb-fM-lYf.title" = "संगीत प्लेलिस्ट";
+
+/* Class = "UINavigationItem"; title = "Beat Depression"; ObjectID = "k3G-rn-9As"; */
+"k3G-rn-9As.title" = "Beat Depression";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "n1b-gG-Qao"; */
+"n1b-gG-Qao.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "sAf-o2-JGE"; */
+"sAf-o2-JGE.normalTitle" = "प्ले";
+
+/* Class = "UIButton"; normalTitle = "Sign In Using FaceBook"; ObjectID = "srG-eD-gqk"; */
+"srG-eD-gqk.normalTitle" = "Facebook का उपयोग कर साइन इन करें";
+
+/* Class = "UIBarButtonItem"; title = "Log Out"; ObjectID = "t72-r9-ZAL"; */
+"t72-r9-ZAL.title" = "Log Out";
+
+/* Class = "UILabel"; text = "Do More Of What Makes You Happy"; ObjectID = "uT8-kI-yFJ"; */
+"uT8-kI-yFJ.text" = "जिससे तुम्हें खुशी मिलती है उसे और करो";
+
+/* Class = "UIButton"; normalTitle = "Play Again?"; ObjectID = "uUw-qy-RSf"; */
+"uUw-qy-RSf.normalTitle" = "फिर से प्ले करें?";
+
+/* Class = "UIButton"; normalTitle = "Family"; ObjectID = "v4b-sU-wOs"; */
+"v4b-sU-wOs.normalTitle" = "परिवार";
+
+/* Class = "UILabel"; text = "Imagine With All Your Mind"; ObjectID = "yFl-a2-FCS"; */
+"yFl-a2-FCS.text" = "अपने मन से कल्पना करें ";
+

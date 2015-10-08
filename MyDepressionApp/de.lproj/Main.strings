@@ -1,0 +1,132 @@
+/* Class = "UILabel"; text = "You Are Stronger Than You Think"; ObjectID = "3wo-6o-Ybw"; */
+"3wo-6o-Ybw.text" = "Sie sind stärker als Sie denken";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "6Hi-cM-axU"; */
+"6Hi-cM-axU.placeholder" = "Kennwort";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "8WZ-wg-kk7"; */
+"8WZ-wg-kk7.placeholder" = "Suche";
+
+/* Class = "UINavigationItem"; title = "Quotes"; ObjectID = "9JY-F0-5OL"; */
+"9JY-F0-5OL.title" = "Angebot";
+
+/* Class = "UINavigationItem"; title = "Explore"; ObjectID = "95Q-oZ-D9T"; */
+"95Q-oZ-D9T.title" = "Erkunden";
+
+/* Class = "UIButton"; normalTitle = "Load Video"; ObjectID = "AlQ-A2-VQb"; */
+"AlQ-A2-VQb.normalTitle" = "Last Video";
+
+/* Class = "UITextField"; placeholder = "User Id"; ObjectID = "B8I-zE-bIt"; */
+"B8I-zE-bIt.placeholder" = "Benutzer-ID";
+
+/* Class = "UITextField"; placeholder = "User Email"; ObjectID = "BHO-Fk-nPP"; */
+"BHO-Fk-nPP.placeholder" = "Benutzer-E-Mail";
+
+/* Class = "UIButton"; normalTitle = "Life"; ObjectID = "Cwj-QJ-5f5"; */
+"Cwj-QJ-5f5.normalTitle" = "Leben";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "D9V-2Y-xF7"; */
+"D9V-2Y-xF7.normalTitle" = "Melden Sie sich";
+
+/* Class = "UIButton"; normalTitle = "To know more about Beat Depression Please sign In "; ObjectID = "FnB-xp-RW8"; */
+"FnB-xp-RW8.normalTitle" = "Mehr wissen über Beat Depression Bitte anmelden";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "HU5-Ud-ugS"; */
+"HU5-Ud-ugS.normalTitle" = " ";
+
+/* Class = "UITabBarItem"; title = "Tic tac toe"; ObjectID = "I53-Zz-sRi"; */
+"I53-Zz-sRi.title" = "Tic tac toe";
+
+/* Class = "UIButton"; normalTitle = "Love"; ObjectID = "Iq3-z9-vla"; */
+"Iq3-z9-vla.normalTitle" = "Liebe";
+
+/* Class = "UILabel"; text = "Image Matching Game"; ObjectID = "J2A-hK-iSb"; */
+"J2A-hK-iSb.text" = "Image Matching Game";
+
+/* Class = "UINavigationItem"; title = "Photo"; ObjectID = "JMk-Lz-MSb"; */
+"JMk-Lz-MSb.title" = "Foto";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KcN-SZ-sQE"; */
+"KcN-SZ-sQE.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "M7k-uz-eu2"; */
+"M7k-uz-eu2.normalTitle" = "Weiter";
+
+/* Class = "UIButton"; normalTitle = "Load Playlist"; ObjectID = "NHA-mk-HIu"; */
+"NHA-mk-HIu.normalTitle" = "Wiedergabeliste laden";
+
+/* Class = "UILabel"; text = "Believe With All Your Heart"; ObjectID = "ONU-nZ-yHQ"; */
+"ONU-nZ-yHQ.text" = "Glauben, mit ganzem Herzen";
+
+/* Class = "UILabel"; text = "Beat Depression"; ObjectID = "OXi-Cr-35M"; */
+"OXi-Cr-35M.text" = "Beat Depression";
+
+/* Class = "UILabel"; text = "Get 3 in a Row to Win"; ObjectID = "UFu-h9-ed3"; */
+"UFu-h9-ed3.text" = "Sie erhalten 3 in einer Reihe zu gewinnen";
+
+/* Class = "UINavigationItem"; title = "Quotes List Selections"; ObjectID = "VhP-fe-ngH"; */
+"VhP-fe-ngH.title" = "Zitate Liste Auswahl";
+
+/* Class = "UIButton"; normalTitle = "Prev"; ObjectID = "YIZ-DN-D9Z"; */
+"YIZ-DN-D9Z.normalTitle" = "Zurück";
+
+/* Class = "UITabBarItem"; title = "Imagination"; ObjectID = "aAJ-ou-cHC"; */
+"aAJ-ou-cHC.title" = "Fantasie";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "b5m-d1-jzo"; */
+"b5m-d1-jzo.placeholder" = "Kennwort";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "bJ7-3H-7Dj"; */
+"bJ7-3H-7Dj.normalTitle" = "Fantasie...";
+
+/* Class = "UITextField"; placeholder = "User Name"; ObjectID = "c9V-56-pgP"; */
+"c9V-56-pgP.placeholder" = "Benutzer Name";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "dRW-Da-YaU"; */
+"dRW-Da-YaU.normalTitle" = "Melden Sie sich";
+
+/* Class = "UILabel"; text = "Achieve With All Your Might"; ObjectID = "eEi-so-zg9"; */
+"eEi-so-zg9.text" = "Um mit aller Kraft";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "eOv-Hk-j6B"; */
+"eOv-Hk-j6B.normalTitle" = "Anmelden";
+
+/* Class = "UINavigationItem"; title = "Sign In"; ObjectID = "erf-pK-9fA"; */
+"erf-pK-9fA.title" = "Anmelden";
+
+/* Class = "UIButton"; normalTitle = "Motivational"; ObjectID = "fwn-bz-Php"; */
+"fwn-bz-Php.normalTitle" = "Motivationale";
+
+/* Class = "UINavigationItem"; title = "Quote Detail View"; ObjectID = "igr-YK-sXe"; */
+"igr-YK-sXe.title" = "Zitat Detailansicht";
+
+/* Class = "UINavigationItem"; title = "Music Playlist"; ObjectID = "jHb-fM-lYf"; */
+"jHb-fM-lYf.title" = "Musik Playlist";
+
+/* Class = "UINavigationItem"; title = "Beat Depression"; ObjectID = "k3G-rn-9As"; */
+"k3G-rn-9As.title" = "Beat Depression";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "n1b-gG-Qao"; */
+"n1b-gG-Qao.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "sAf-o2-JGE"; */
+"sAf-o2-JGE.normalTitle" = "Spielen";
+
+/* Class = "UIButton"; normalTitle = "Sign In Using FaceBook"; ObjectID = "srG-eD-gqk"; */
+"srG-eD-gqk.normalTitle" = "Mit Facebook anmelden";
+
+/* Class = "UIBarButtonItem"; title = "Log Out"; ObjectID = "t72-r9-ZAL"; */
+"t72-r9-ZAL.title" = "Abmelden";
+
+/* Class = "UILabel"; text = "Do More Of What Makes You Happy"; ObjectID = "uT8-kI-yFJ"; */
+"uT8-kI-yFJ.text" = "Mehr zu Tun von dem, was Sie glücklich macht";
+
+/* Class = "UIButton"; normalTitle = "Play Again?"; ObjectID = "uUw-qy-RSf"; */
+"uUw-qy-RSf.normalTitle" = "Erneut spielen?";
+
+/* Class = "UIButton"; normalTitle = "Family"; ObjectID = "v4b-sU-wOs"; */
+"v4b-sU-wOs.normalTitle" = "Familie";
+
+/* Class = "UILabel"; text = "Imagine With All Your Mind"; ObjectID = "yFl-a2-FCS"; */
+"yFl-a2-FCS.text" = "Vorstellen, mit deinem ganzen Verstand";
+

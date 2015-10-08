@@ -7,12 +7,74 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F0CC5EA1B2E8842003E02DE /* QuoteDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0CC5E91B2E8842003E02DE /* QuoteDetailViewController.swift */; };
+		3F0CC5EC1B2E8850003E02DE /* QuoteSelectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0CC5EB1B2E8850003E02DE /* QuoteSelectViewController.swift */; };
+		3F3D99651B2F23A700419737 /* ImageGussingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3D99641B2F23A700419737 /* ImageGussingViewController.swift */; };
+		3F3D99B01B2FBC7800419737 /* QuestionDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3D99AB1B2FBC7700419737 /* QuestionDetailViewController.swift */; };
+		3F3D99B11B2FBC7800419737 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3D99AC1B2FBC7800419737 /* Data.swift */; };
+		3F3D99B21B2FBC7800419737 /* QuestionTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3D99AD1B2FBC7800419737 /* QuestionTableViewController.swift */; };
+		3F3D99B31B2FBC7800419737 /* QuestionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3D99AE1B2FBC7800419737 /* QuestionTableViewCell.swift */; };
+		3F69B9081B27F37900E1B1D7 /* SongController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F69B9071B27F37800E1B1D7 /* SongController.swift */; };
+		3F69B9171B28956F00E1B1D7 /* SpringAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F69B90D1B28956F00E1B1D7 /* SpringAnimation.swift */; };
+		3F69B9191B28956F00E1B1D7 /* AndNow.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B90F1B28956F00E1B1D7 /* AndNow.wav */; };
+		3F69B91A1B28956F00E1B1D7 /* music_marimba_chord.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B9101B28956F00E1B1D7 /* music_marimba_chord.wav */; };
+		3F69B91B1B28956F00E1B1D7 /* pop_drip.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B9111B28956F00E1B1D7 /* pop_drip.wav */; };
+		3F69B91C1B28956F00E1B1D7 /* chime_short_chord_up.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B9121B28956F00E1B1D7 /* chime_short_chord_up.wav */; };
+		3F69B91D1B28956F00E1B1D7 /* Triangle.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B9131B28956F00E1B1D7 /* Triangle.png */; };
+		3F69B91E1B28956F00E1B1D7 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B9141B28956F00E1B1D7 /* board.png */; };
+		3F69B91F1B28956F00E1B1D7 /* circle.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F69B9151B28956F00E1B1D7 /* circle.png */; };
+		3F69B9221B289A4900E1B1D7 /* TViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F69B9211B289A4900E1B1D7 /* TViewController.swift */; };
 		3FC342261B236ACA007BE5DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342251B236ACA007BE5DC /* AppDelegate.swift */; };
-		3FC342281B236ACA007BE5DC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342271B236ACA007BE5DC /* ViewController.swift */; };
+		3FC342281B236ACA007BE5DC /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342271B236ACA007BE5DC /* SignInViewController.swift */; };
 		3FC3422B1B236ACA007BE5DC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FC342291B236ACA007BE5DC /* Main.storyboard */; };
 		3FC3422D1B236ACA007BE5DC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FC3422C1B236ACA007BE5DC /* Images.xcassets */; };
 		3FC342301B236ACA007BE5DC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FC3422E1B236ACA007BE5DC /* LaunchScreen.xib */; };
 		3FC3423C1B236ACA007BE5DC /* MyDepressionAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC3423B1B236ACA007BE5DC /* MyDepressionAppTests.swift */; };
+		3FC3425E1B23E82C007BE5DC /* ExploreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC3425D1B23E82C007BE5DC /* ExploreViewController.swift */; };
+		3FC3426A1B249C22007BE5DC /* UserViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342691B249C22007BE5DC /* UserViewController.swift */; };
+		3FC3426F1B24AD47007BE5DC /* PhotoAlbumController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC3426E1B24AD47007BE5DC /* PhotoAlbumController.swift */; };
+		3FC342711B24B9C6007BE5DC /* Photos.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342701B24B9C6007BE5DC /* Photos.framework */; };
+		3FC342781B251E44007BE5DC /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342741B251E44007BE5DC /* Bolts.framework */; };
+		3FC342791B251E44007BE5DC /* Parse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342751B251E44007BE5DC /* Parse.framework */; };
+		3FC3427A1B251E44007BE5DC /* ParseFacebookUtilsV4.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342761B251E44007BE5DC /* ParseFacebookUtilsV4.framework */; };
+		3FC3427B1B251E44007BE5DC /* ParseUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342771B251E44007BE5DC /* ParseUI.framework */; };
+		3FC3427D1B251EE9007BE5DC /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3427C1B251EE8007BE5DC /* AudioToolbox.framework */; };
+		3FC3427F1B251F00007BE5DC /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3427E1B251F00007BE5DC /* CFNetwork.framework */; };
+		3FC342811B251F12007BE5DC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342801B251F12007BE5DC /* CoreGraphics.framework */; };
+		3FC342831B251F1E007BE5DC /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342821B251F1E007BE5DC /* CoreLocation.framework */; };
+		3FC342851B251F2E007BE5DC /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342841B251F2E007BE5DC /* MobileCoreServices.framework */; };
+		3FC342871B251F39007BE5DC /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342861B251F39007BE5DC /* Accounts.framework */; };
+		3FC342891B251F47007BE5DC /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342881B251F47007BE5DC /* QuartzCore.framework */; };
+		3FC3428B1B251F56007BE5DC /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3428A1B251F56007BE5DC /* Security.framework */; };
+		3FC3428D1B251F6C007BE5DC /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3428C1B251F6C007BE5DC /* StoreKit.framework */; };
+		3FC3428F1B251F80007BE5DC /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3428E1B251F80007BE5DC /* SystemConfiguration.framework */; };
+		3FC342911B251F94007BE5DC /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342901B251F94007BE5DC /* Social.framework */; };
+		3FC342931B251FA0007BE5DC /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342921B251FA0007BE5DC /* libz.dylib */; };
+		3FC342951B251FAB007BE5DC /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC342941B251FAB007BE5DC /* libsqlite3.dylib */; };
+		3FC342981B252171007BE5DC /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342971B252171007BE5DC /* SignUpViewController.swift */; };
+		3FC3429B1B25EDF8007BE5DC /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3429A1B25EDF8007BE5DC /* FBSDKCoreKit.framework */; };
+		3FC3429D1B25EE09007BE5DC /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3429C1B25EE09007BE5DC /* FBSDKLoginKit.framework */; };
+		3FC3429F1B25EE28007BE5DC /* FBSDKShareKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3FC3429E1B25EE28007BE5DC /* FBSDKShareKit.framework */; };
+		3FC342A51B265231007BE5DC /* PhotoController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342A41B265231007BE5DC /* PhotoController.swift */; };
+		3FC342A91B265246007BE5DC /* PhotoAlbumCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342A81B265246007BE5DC /* PhotoAlbumCollectionCell.swift */; };
+		3FC342AB1B2658BD007BE5DC /* FlickrSearcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342AA1B2658BD007BE5DC /* FlickrSearcher.swift */; };
+		3FC342AF1B2680ED007BE5DC /* photoHeaderReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342AE1B2680ED007BE5DC /* photoHeaderReusableView.swift */; };
+		3FC342BD1B278E7F007BE5DC /* songTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FC342BA1B278E7F007BE5DC /* songTableViewController.swift */; };
+		CD594B041B2E0B5B00D46534 /* imgres-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = CD594B031B2E0B5B00D46534 /* imgres-1.jpg */; };
+		CD594B2F1B2FA63C00D46534 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD594B311B2FA63C00D46534 /* InfoPlist.strings */; };
+		CD594B341B2FA63D00D46534 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD594B361B2FA63D00D46534 /* InfoPlist.strings */; };
+		CD594B391B2FA63D00D46534 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD594B3B1B2FA63D00D46534 /* InfoPlist.strings */; };
+		CD594B3E1B2FA63D00D46534 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = CD594B401B2FA63D00D46534 /* InfoPlist.strings */; };
+		CD8B8C241B2A1F3300FF00F5 /* QCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8B8C211B2A1F3300FF00F5 /* QCollectionViewCell.swift */; };
+		CD8B8C261B2A1F3300FF00F5 /* QCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD8B8C231B2A1F3300FF00F5 /* QCollectionViewController.swift */; };
+		CD99247A1B2B30BF0056D9C8 /* 149.gif in Resources */ = {isa = PBXBuildFile; fileRef = CD9924791B2B30BF0056D9C8 /* 149.gif */; };
+		CD9926051B2D11690056D9C8 /* YouTubePlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD9925FA1B2D11680056D9C8 /* YouTubePlayer.framework */; };
+		CD99260E1B2D11690056D9C8 /* YouTubePlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD99260D1B2D11690056D9C8 /* YouTubePlayerTests.swift */; };
+		CD9926111B2D11690056D9C8 /* YouTubePlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD9925FA1B2D11680056D9C8 /* YouTubePlayer.framework */; };
+		CD9926121B2D11690056D9C8 /* YouTubePlayer.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = CD9925FA1B2D11680056D9C8 /* YouTubePlayer.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		CD99261B1B2D11B40056D9C8 /* VideoPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD99261A1B2D11B40056D9C8 /* VideoPlayerView.swift */; };
+		CD99261D1B2D11C30056D9C8 /* YTPlayer.html in Resources */ = {isa = PBXBuildFile; fileRef = CD99261C1B2D11C30056D9C8 /* YTPlayer.html */; };
+		CD9926271B2D32AD0056D9C8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD9926261B2D32AD0056D9C8 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,19 +85,132 @@
 			remoteGlobalIDString = 3FC3421F1B236ACA007BE5DC;
 			remoteInfo = MyDepressionApp;
 		};
+		CD9926061B2D11690056D9C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3FC342181B236ACA007BE5DC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD9925F91B2D11680056D9C8;
+			remoteInfo = YouTubePlayer;
+		};
+		CD9926081B2D11690056D9C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3FC342181B236ACA007BE5DC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3FC3421F1B236ACA007BE5DC;
+			remoteInfo = MyDepressionApp;
+		};
+		CD99260F1B2D11690056D9C8 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3FC342181B236ACA007BE5DC /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = CD9925F91B2D11680056D9C8;
+			remoteInfo = YouTubePlayer;
+		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		CD9926161B2D11690056D9C8 /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				CD9926121B2D11690056D9C8 /* YouTubePlayer.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		3F0CC5E91B2E8842003E02DE /* QuoteDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuoteDetailViewController.swift; sourceTree = "<group>"; };
+		3F0CC5EB1B2E8850003E02DE /* QuoteSelectViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuoteSelectViewController.swift; sourceTree = "<group>"; };
+		3F3D99641B2F23A700419737 /* ImageGussingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageGussingViewController.swift; sourceTree = "<group>"; };
+		3F3D99AB1B2FBC7700419737 /* QuestionDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionDetailViewController.swift; sourceTree = "<group>"; };
+		3F3D99AC1B2FBC7800419737 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		3F3D99AD1B2FBC7800419737 /* QuestionTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionTableViewController.swift; sourceTree = "<group>"; };
+		3F3D99AE1B2FBC7800419737 /* QuestionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuestionTableViewCell.swift; sourceTree = "<group>"; };
+		3F69B9071B27F37800E1B1D7 /* SongController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongController.swift; sourceTree = "<group>"; };
+		3F69B90D1B28956F00E1B1D7 /* SpringAnimation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpringAnimation.swift; sourceTree = "<group>"; };
+		3F69B90F1B28956F00E1B1D7 /* AndNow.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = AndNow.wav; sourceTree = "<group>"; };
+		3F69B9101B28956F00E1B1D7 /* music_marimba_chord.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = music_marimba_chord.wav; sourceTree = "<group>"; };
+		3F69B9111B28956F00E1B1D7 /* pop_drip.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = pop_drip.wav; sourceTree = "<group>"; };
+		3F69B9121B28956F00E1B1D7 /* chime_short_chord_up.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = chime_short_chord_up.wav; sourceTree = "<group>"; };
+		3F69B9131B28956F00E1B1D7 /* Triangle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Triangle.png; sourceTree = "<group>"; };
+		3F69B9141B28956F00E1B1D7 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		3F69B9151B28956F00E1B1D7 /* circle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circle.png; sourceTree = "<group>"; };
+		3F69B9211B289A4900E1B1D7 /* TViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TViewController.swift; sourceTree = "<group>"; };
 		3FC342201B236ACA007BE5DC /* MyDepressionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyDepressionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC342241B236ACA007BE5DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FC342251B236ACA007BE5DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3FC342271B236ACA007BE5DC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3FC342271B236ACA007BE5DC /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		3FC3422A1B236ACA007BE5DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3FC3422C1B236ACA007BE5DC /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		3FC3422F1B236ACA007BE5DC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		3FC342351B236ACA007BE5DC /* MyDepressionAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyDepressionAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FC3423A1B236ACA007BE5DC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FC3423B1B236ACA007BE5DC /* MyDepressionAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyDepressionAppTests.swift; sourceTree = "<group>"; };
+		3FC3425D1B23E82C007BE5DC /* ExploreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExploreViewController.swift; sourceTree = "<group>"; };
+		3FC342691B249C22007BE5DC /* UserViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserViewController.swift; sourceTree = "<group>"; };
+		3FC3426E1B24AD47007BE5DC /* PhotoAlbumController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoAlbumController.swift; sourceTree = "<group>"; };
+		3FC342701B24B9C6007BE5DC /* Photos.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Photos.framework; path = System/Library/Frameworks/Photos.framework; sourceTree = SDKROOT; };
+		3FC342741B251E44007BE5DC /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
+		3FC342751B251E44007BE5DC /* Parse.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Parse.framework; sourceTree = "<group>"; };
+		3FC342761B251E44007BE5DC /* ParseFacebookUtilsV4.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseFacebookUtilsV4.framework; sourceTree = "<group>"; };
+		3FC342771B251E44007BE5DC /* ParseUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = ParseUI.framework; sourceTree = "<group>"; };
+		3FC3427C1B251EE8007BE5DC /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		3FC3427E1B251F00007BE5DC /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		3FC342801B251F12007BE5DC /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3FC342821B251F1E007BE5DC /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		3FC342841B251F2E007BE5DC /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		3FC342861B251F39007BE5DC /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		3FC342881B251F47007BE5DC /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		3FC3428A1B251F56007BE5DC /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		3FC3428C1B251F6C007BE5DC /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		3FC3428E1B251F80007BE5DC /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3FC342901B251F94007BE5DC /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		3FC342921B251FA0007BE5DC /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		3FC342941B251FAB007BE5DC /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		3FC342971B252171007BE5DC /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		3FC3429A1B25EDF8007BE5DC /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
+		3FC3429C1B25EE09007BE5DC /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
+		3FC3429E1B25EE28007BE5DC /* FBSDKShareKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKShareKit.framework; sourceTree = "<group>"; };
+		3FC342A01B25F123007BE5DC /* MyDepressionApp-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MyDepressionApp-Bridging-Header.h"; sourceTree = "<group>"; };
+		3FC342A41B265231007BE5DC /* PhotoController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoController.swift; sourceTree = "<group>"; };
+		3FC342A81B265246007BE5DC /* PhotoAlbumCollectionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoAlbumCollectionCell.swift; sourceTree = "<group>"; };
+		3FC342AA1B2658BD007BE5DC /* FlickrSearcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FlickrSearcher.swift; sourceTree = "<group>"; };
+		3FC342AE1B2680ED007BE5DC /* photoHeaderReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = photoHeaderReusableView.swift; sourceTree = "<group>"; };
+		3FC342BA1B278E7F007BE5DC /* songTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = songTableViewController.swift; sourceTree = "<group>"; };
+		CD594B031B2E0B5B00D46534 /* imgres-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "imgres-1.jpg"; sourceTree = "<group>"; };
+		CD594B271B2F8CDC00D46534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		CD594B281B2F8CDC00D46534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		CD594B291B2F8D1400D46534 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/Main.strings"; sourceTree = "<group>"; };
+		CD594B2A1B2F8D1400D46534 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/LaunchScreen.strings"; sourceTree = "<group>"; };
+		CD594B2B1B2F8D3500D46534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		CD594B2C1B2F8D3500D46534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		CD594B301B2FA63C00D46534 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		CD594B351B2FA63D00D46534 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		CD594B3A1B2FA63D00D46534 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		CD594B3F1B2FA63D00D46534 /* hi-IN */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "hi-IN"; path = "hi-IN.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		CD594B411B2FA65800D46534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B421B2FA65800D46534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B431B2FA65800D46534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B441B2FA65800D46534 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B451B2FA67800D46534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B461B2FA67800D46534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B471B2FA67800D46534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD594B481B2FA67800D46534 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		CD8B8C211B2A1F3300FF00F5 /* QCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QCollectionViewCell.swift; sourceTree = "<group>"; };
+		CD8B8C231B2A1F3300FF00F5 /* QCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QCollectionViewController.swift; sourceTree = "<group>"; };
+		CD9924791B2B30BF0056D9C8 /* 149.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 149.gif; sourceTree = "<group>"; };
+		CD9925FA1B2D11680056D9C8 /* YouTubePlayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = YouTubePlayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD9925FD1B2D11680056D9C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD9926041B2D11690056D9C8 /* YouTubePlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = YouTubePlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD99260C1B2D11690056D9C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CD99260D1B2D11690056D9C8 /* YouTubePlayerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YouTubePlayerTests.swift; sourceTree = "<group>"; };
+		CD99261A1B2D11B40056D9C8 /* VideoPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoPlayerView.swift; sourceTree = "<group>"; };
+		CD99261C1B2D11C30056D9C8 /* YTPlayer.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = YTPlayer.html; sourceTree = "<group>"; };
+		CD9926261B2D32AD0056D9C8 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../MyDepressionApp/ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +218,28 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FC342951B251FAB007BE5DC /* libsqlite3.dylib in Frameworks */,
+				CD9926111B2D11690056D9C8 /* YouTubePlayer.framework in Frameworks */,
+				3FC342931B251FA0007BE5DC /* libz.dylib in Frameworks */,
+				3FC3429D1B25EE09007BE5DC /* FBSDKLoginKit.framework in Frameworks */,
+				3FC342911B251F94007BE5DC /* Social.framework in Frameworks */,
+				3FC3428F1B251F80007BE5DC /* SystemConfiguration.framework in Frameworks */,
+				3FC3428D1B251F6C007BE5DC /* StoreKit.framework in Frameworks */,
+				3FC3428B1B251F56007BE5DC /* Security.framework in Frameworks */,
+				3FC342891B251F47007BE5DC /* QuartzCore.framework in Frameworks */,
+				3FC342871B251F39007BE5DC /* Accounts.framework in Frameworks */,
+				3FC3429B1B25EDF8007BE5DC /* FBSDKCoreKit.framework in Frameworks */,
+				3FC342851B251F2E007BE5DC /* MobileCoreServices.framework in Frameworks */,
+				3FC342831B251F1E007BE5DC /* CoreLocation.framework in Frameworks */,
+				3FC342811B251F12007BE5DC /* CoreGraphics.framework in Frameworks */,
+				3FC3427F1B251F00007BE5DC /* CFNetwork.framework in Frameworks */,
+				3FC3427D1B251EE9007BE5DC /* AudioToolbox.framework in Frameworks */,
+				3FC342711B24B9C6007BE5DC /* Photos.framework in Frameworks */,
+				3FC342791B251E44007BE5DC /* Parse.framework in Frameworks */,
+				3FC3429F1B25EE28007BE5DC /* FBSDKShareKit.framework in Frameworks */,
+				3FC3427B1B251E44007BE5DC /* ParseUI.framework in Frameworks */,
+				3FC3427A1B251E44007BE5DC /* ParseFacebookUtilsV4.framework in Frameworks */,
+				3FC342781B251E44007BE5DC /* Bolts.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,14 +250,105 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		CD9925F61B2D11680056D9C8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD9926011B2D11690056D9C8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD9926051B2D11690056D9C8 /* YouTubePlayer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F0CC55A1B29CE3F003E02DE /* YouTubePlayerExample */ = {
+			isa = PBXGroup;
+			children = (
+				CD9925FB1B2D11680056D9C8 /* YouTubePlayer */,
+			);
+			name = YouTubePlayerExample;
+			sourceTree = "<group>";
+		};
+		3F0CC55B1B29CE7B003E02DE /* Quote */ = {
+			isa = PBXGroup;
+			children = (
+				3F0CC5E91B2E8842003E02DE /* QuoteDetailViewController.swift */,
+				CD8B8C211B2A1F3300FF00F5 /* QCollectionViewCell.swift */,
+				3F0CC5EB1B2E8850003E02DE /* QuoteSelectViewController.swift */,
+				CD8B8C231B2A1F3300FF00F5 /* QCollectionViewController.swift */,
+			);
+			name = Quote;
+			sourceTree = "<group>";
+		};
+		3F3D99B51B2FC25B00419737 /* Questions */ = {
+			isa = PBXGroup;
+			children = (
+				3F3D99AB1B2FBC7700419737 /* QuestionDetailViewController.swift */,
+				3F3D99AC1B2FBC7800419737 /* Data.swift */,
+				3F3D99AD1B2FBC7800419737 /* QuestionTableViewController.swift */,
+				3F3D99AE1B2FBC7800419737 /* QuestionTableViewCell.swift */,
+				3FC3425D1B23E82C007BE5DC /* ExploreViewController.swift */,
+			);
+			name = Questions;
+			sourceTree = "<group>";
+		};
+		3F69B9091B27FB8B00E1B1D7 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				3FC342BA1B278E7F007BE5DC /* songTableViewController.swift */,
+				3F69B9071B27F37800E1B1D7 /* SongController.swift */,
+			);
+			name = Music;
+			sourceTree = "<group>";
+		};
+		3F69B90A1B27FBD900E1B1D7 /* MainScreenControllers */ = {
+			isa = PBXGroup;
+			children = (
+				3FC342691B249C22007BE5DC /* UserViewController.swift */,
+				3FC342271B236ACA007BE5DC /* SignInViewController.swift */,
+				3FC342971B252171007BE5DC /* SignUpViewController.swift */,
+			);
+			name = MainScreenControllers;
+			sourceTree = "<group>";
+		};
+		3F69B90B1B2894C500E1B1D7 /* Games */ = {
+			isa = PBXGroup;
+			children = (
+				3F3D99641B2F23A700419737 /* ImageGussingViewController.swift */,
+				3F69B90C1B2894DD00E1B1D7 /* TicTacToe */,
+			);
+			name = Games;
+			sourceTree = "<group>";
+		};
+		3F69B90C1B2894DD00E1B1D7 /* TicTacToe */ = {
+			isa = PBXGroup;
+			children = (
+				3F69B90D1B28956F00E1B1D7 /* SpringAnimation.swift */,
+				3F69B9211B289A4900E1B1D7 /* TViewController.swift */,
+				3F69B90F1B28956F00E1B1D7 /* AndNow.wav */,
+				3F69B9101B28956F00E1B1D7 /* music_marimba_chord.wav */,
+				3F69B9111B28956F00E1B1D7 /* pop_drip.wav */,
+				3F69B9121B28956F00E1B1D7 /* chime_short_chord_up.wav */,
+				3F69B9131B28956F00E1B1D7 /* Triangle.png */,
+				3F69B9141B28956F00E1B1D7 /* board.png */,
+				3F69B9151B28956F00E1B1D7 /* circle.png */,
+			);
+			name = TicTacToe;
+			sourceTree = "<group>";
+		};
 		3FC342171B236ACA007BE5DC = {
 			isa = PBXGroup;
 			children = (
 				3FC342221B236ACA007BE5DC /* MyDepressionApp */,
 				3FC342381B236ACA007BE5DC /* MyDepressionAppTests */,
+				CD99260A1B2D11690056D9C8 /* YouTubePlayerTests */,
 				3FC342211B236ACA007BE5DC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -70,6 +358,8 @@
 			children = (
 				3FC342201B236ACA007BE5DC /* MyDepressionApp.app */,
 				3FC342351B236ACA007BE5DC /* MyDepressionAppTests.xctest */,
+				CD9925FA1B2D11680056D9C8 /* YouTubePlayer.framework */,
+				CD9926041B2D11690056D9C8 /* YouTubePlayerTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,11 +368,16 @@
 			isa = PBXGroup;
 			children = (
 				3FC342251B236ACA007BE5DC /* AppDelegate.swift */,
-				3FC342271B236ACA007BE5DC /* ViewController.swift */,
 				3FC342291B236ACA007BE5DC /* Main.storyboard */,
+				CD594B031B2E0B5B00D46534 /* imgres-1.jpg */,
 				3FC3422C1B236ACA007BE5DC /* Images.xcassets */,
+				CD9924791B2B30BF0056D9C8 /* 149.gif */,
 				3FC3422E1B236ACA007BE5DC /* LaunchScreen.xib */,
+				3F69B90A1B27FBD900E1B1D7 /* MainScreenControllers */,
+				3FC3426B1B24A64B007BE5DC /* Eplor Controllers */,
+				3FC342961B251FE1007BE5DC /* FrameWork */,
 				3FC342231B236ACA007BE5DC /* Supporting Files */,
+				3FC342A01B25F123007BE5DC /* MyDepressionApp-Bridging-Header.h */,
 			);
 			path = MyDepressionApp;
 			sourceTree = "<group>";
@@ -90,6 +385,7 @@
 		3FC342231B236ACA007BE5DC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CD594B311B2FA63C00D46534 /* InfoPlist.strings */,
 				3FC342241B236ACA007BE5DC /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -107,12 +403,115 @@
 		3FC342391B236ACA007BE5DC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CD594B361B2FA63D00D46534 /* InfoPlist.strings */,
 				3FC3423A1B236ACA007BE5DC /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		3FC3426B1B24A64B007BE5DC /* Eplor Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3F3D99B51B2FC25B00419737 /* Questions */,
+				3F0CC55B1B29CE7B003E02DE /* Quote */,
+				3F0CC55A1B29CE3F003E02DE /* YouTubePlayerExample */,
+				3F69B90B1B2894C500E1B1D7 /* Games */,
+				3F69B9091B27FB8B00E1B1D7 /* Music */,
+				3FC342991B2547D9007BE5DC /* PhotoAlbum */,
+			);
+			name = "Eplor Controllers";
+			sourceTree = "<group>";
+		};
+		3FC342961B251FE1007BE5DC /* FrameWork */ = {
+			isa = PBXGroup;
+			children = (
+				3FC3429E1B25EE28007BE5DC /* FBSDKShareKit.framework */,
+				3FC3429A1B25EDF8007BE5DC /* FBSDKCoreKit.framework */,
+				3FC3429C1B25EE09007BE5DC /* FBSDKLoginKit.framework */,
+				3FC342941B251FAB007BE5DC /* libsqlite3.dylib */,
+				3FC342921B251FA0007BE5DC /* libz.dylib */,
+				3FC342901B251F94007BE5DC /* Social.framework */,
+				3FC3428E1B251F80007BE5DC /* SystemConfiguration.framework */,
+				3FC3428C1B251F6C007BE5DC /* StoreKit.framework */,
+				3FC3428A1B251F56007BE5DC /* Security.framework */,
+				3FC342881B251F47007BE5DC /* QuartzCore.framework */,
+				3FC342861B251F39007BE5DC /* Accounts.framework */,
+				3FC342841B251F2E007BE5DC /* MobileCoreServices.framework */,
+				3FC342821B251F1E007BE5DC /* CoreLocation.framework */,
+				3FC342801B251F12007BE5DC /* CoreGraphics.framework */,
+				3FC3427E1B251F00007BE5DC /* CFNetwork.framework */,
+				3FC3427C1B251EE8007BE5DC /* AudioToolbox.framework */,
+				3FC342701B24B9C6007BE5DC /* Photos.framework */,
+				3FC342741B251E44007BE5DC /* Bolts.framework */,
+				3FC342751B251E44007BE5DC /* Parse.framework */,
+				3FC342761B251E44007BE5DC /* ParseFacebookUtilsV4.framework */,
+				3FC342771B251E44007BE5DC /* ParseUI.framework */,
+			);
+			name = FrameWork;
+			sourceTree = "<group>";
+		};
+		3FC342991B2547D9007BE5DC /* PhotoAlbum */ = {
+			isa = PBXGroup;
+			children = (
+				3FC342AA1B2658BD007BE5DC /* FlickrSearcher.swift */,
+				3FC342A41B265231007BE5DC /* PhotoController.swift */,
+				3FC342A81B265246007BE5DC /* PhotoAlbumCollectionCell.swift */,
+				3FC342AE1B2680ED007BE5DC /* photoHeaderReusableView.swift */,
+				3FC3426E1B24AD47007BE5DC /* PhotoAlbumController.swift */,
+			);
+			name = PhotoAlbum;
+			sourceTree = "<group>";
+		};
+		CD9925FB1B2D11680056D9C8 /* YouTubePlayer */ = {
+			isa = PBXGroup;
+			children = (
+				CD99261C1B2D11C30056D9C8 /* YTPlayer.html */,
+				CD9926261B2D32AD0056D9C8 /* ViewController.swift */,
+				CD99261A1B2D11B40056D9C8 /* VideoPlayerView.swift */,
+				CD9925FC1B2D11680056D9C8 /* Supporting Files */,
+			);
+			name = YouTubePlayer;
+			path = ../YouTubePlayer;
+			sourceTree = "<group>";
+		};
+		CD9925FC1B2D11680056D9C8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD594B401B2FA63D00D46534 /* InfoPlist.strings */,
+				CD9925FD1B2D11680056D9C8 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		CD99260A1B2D11690056D9C8 /* YouTubePlayerTests */ = {
+			isa = PBXGroup;
+			children = (
+				CD99260D1B2D11690056D9C8 /* YouTubePlayerTests.swift */,
+				CD99260B1B2D11690056D9C8 /* Supporting Files */,
+			);
+			path = YouTubePlayerTests;
+			sourceTree = "<group>";
+		};
+		CD99260B1B2D11690056D9C8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				CD594B3B1B2FA63D00D46534 /* InfoPlist.strings */,
+				CD99260C1B2D11690056D9C8 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		CD9925F71B2D11680056D9C8 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
 		3FC3421F1B236ACA007BE5DC /* MyDepressionApp */ = {
@@ -122,10 +521,12 @@
 				3FC3421C1B236ACA007BE5DC /* Sources */,
 				3FC3421D1B236ACA007BE5DC /* Frameworks */,
 				3FC3421E1B236ACA007BE5DC /* Resources */,
+				CD9926161B2D11690056D9C8 /* Embed Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				CD9926101B2D11690056D9C8 /* PBXTargetDependency */,
 			);
 			name = MyDepressionApp;
 			productName = MyDepressionApp;
@@ -150,6 +551,43 @@
 			productReference = 3FC342351B236ACA007BE5DC /* MyDepressionAppTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
+		CD9925F91B2D11680056D9C8 /* YouTubePlayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD9926131B2D11690056D9C8 /* Build configuration list for PBXNativeTarget "YouTubePlayer" */;
+			buildPhases = (
+				CD9925F51B2D11680056D9C8 /* Sources */,
+				CD9925F61B2D11680056D9C8 /* Frameworks */,
+				CD9925F71B2D11680056D9C8 /* Headers */,
+				CD9925F81B2D11680056D9C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = YouTubePlayer;
+			productName = YouTubePlayer;
+			productReference = CD9925FA1B2D11680056D9C8 /* YouTubePlayer.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		CD9926031B2D11690056D9C8 /* YouTubePlayerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CD9926171B2D11690056D9C8 /* Build configuration list for PBXNativeTarget "YouTubePlayerTests" */;
+			buildPhases = (
+				CD9926001B2D11690056D9C8 /* Sources */,
+				CD9926011B2D11690056D9C8 /* Frameworks */,
+				CD9926021B2D11690056D9C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				CD9926071B2D11690056D9C8 /* PBXTargetDependency */,
+				CD9926091B2D11690056D9C8 /* PBXTargetDependency */,
+			);
+			name = YouTubePlayerTests;
+			productName = YouTubePlayerTests;
+			productReference = CD9926041B2D11690056D9C8 /* YouTubePlayerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -164,6 +602,13 @@
 					};
 					3FC342341B236ACA007BE5DC = {
 						CreatedOnToolsVersion = 6.3.1;
+						TestTargetID = 3FC3421F1B236ACA007BE5DC;
+					};
+					CD9925F91B2D11680056D9C8 = {
+						CreatedOnToolsVersion = 6.3.2;
+					};
+					CD9926031B2D11690056D9C8 = {
+						CreatedOnToolsVersion = 6.3.2;
 						TestTargetID = 3FC3421F1B236ACA007BE5DC;
 					};
 				};
@@ -183,6 +628,8 @@
 			targets = (
 				3FC3421F1B236ACA007BE5DC /* MyDepressionApp */,
 				3FC342341B236ACA007BE5DC /* MyDepressionAppTests */,
+				CD9925F91B2D11680056D9C8 /* YouTubePlayer */,
+				CD9926031B2D11690056D9C8 /* YouTubePlayerTests */,
 			);
 		};
 /* End PBXProject section */
@@ -192,8 +639,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD594B041B2E0B5B00D46534 /* imgres-1.jpg in Resources */,
+				CD594B2F1B2FA63C00D46534 /* InfoPlist.strings in Resources */,
 				3FC3422B1B236ACA007BE5DC /* Main.storyboard in Resources */,
+				3F69B9191B28956F00E1B1D7 /* AndNow.wav in Resources */,
+				3F69B91E1B28956F00E1B1D7 /* board.png in Resources */,
+				CD99261D1B2D11C30056D9C8 /* YTPlayer.html in Resources */,
 				3FC342301B236ACA007BE5DC /* LaunchScreen.xib in Resources */,
+				3F69B91B1B28956F00E1B1D7 /* pop_drip.wav in Resources */,
+				3F69B91A1B28956F00E1B1D7 /* music_marimba_chord.wav in Resources */,
+				3F69B91D1B28956F00E1B1D7 /* Triangle.png in Resources */,
+				CD99247A1B2B30BF0056D9C8 /* 149.gif in Resources */,
+				3F69B91F1B28956F00E1B1D7 /* circle.png in Resources */,
+				3F69B91C1B28956F00E1B1D7 /* chime_short_chord_up.wav in Resources */,
 				3FC3422D1B236ACA007BE5DC /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -202,6 +660,23 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CD594B341B2FA63D00D46534 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD9925F81B2D11680056D9C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD594B3E1B2FA63D00D46534 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD9926021B2D11690056D9C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD594B391B2FA63D00D46534 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,8 +687,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FC342281B236ACA007BE5DC /* ViewController.swift in Sources */,
+				3FC342A91B265246007BE5DC /* PhotoAlbumCollectionCell.swift in Sources */,
+				3F3D99B21B2FBC7800419737 /* QuestionTableViewController.swift in Sources */,
+				3FC342AF1B2680ED007BE5DC /* photoHeaderReusableView.swift in Sources */,
+				3F69B9171B28956F00E1B1D7 /* SpringAnimation.swift in Sources */,
+				3F0CC5EC1B2E8850003E02DE /* QuoteSelectViewController.swift in Sources */,
+				3F0CC5EA1B2E8842003E02DE /* QuoteDetailViewController.swift in Sources */,
+				3F3D99B31B2FBC7800419737 /* QuestionTableViewCell.swift in Sources */,
+				3FC342281B236ACA007BE5DC /* SignInViewController.swift in Sources */,
+				3F69B9221B289A4900E1B1D7 /* TViewController.swift in Sources */,
+				CD99261B1B2D11B40056D9C8 /* VideoPlayerView.swift in Sources */,
+				3FC3426A1B249C22007BE5DC /* UserViewController.swift in Sources */,
+				3FC342BD1B278E7F007BE5DC /* songTableViewController.swift in Sources */,
 				3FC342261B236ACA007BE5DC /* AppDelegate.swift in Sources */,
+				3FC342981B252171007BE5DC /* SignUpViewController.swift in Sources */,
+				CD8B8C261B2A1F3300FF00F5 /* QCollectionViewController.swift in Sources */,
+				3F3D99B11B2FBC7800419737 /* Data.swift in Sources */,
+				3FC342A51B265231007BE5DC /* PhotoController.swift in Sources */,
+				3F3D99651B2F23A700419737 /* ImageGussingViewController.swift in Sources */,
+				CD9926271B2D32AD0056D9C8 /* ViewController.swift in Sources */,
+				3F69B9081B27F37900E1B1D7 /* SongController.swift in Sources */,
+				3F3D99B01B2FBC7800419737 /* QuestionDetailViewController.swift in Sources */,
+				3FC342AB1B2658BD007BE5DC /* FlickrSearcher.swift in Sources */,
+				3FC3425E1B23E82C007BE5DC /* ExploreViewController.swift in Sources */,
+				3FC3426F1B24AD47007BE5DC /* PhotoAlbumController.swift in Sources */,
+				CD8B8C241B2A1F3300FF00F5 /* QCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +723,21 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		CD9925F51B2D11680056D9C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CD9926001B2D11690056D9C8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CD99260E1B2D11690056D9C8 /* YouTubePlayerTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -233,6 +746,21 @@
 			target = 3FC3421F1B236ACA007BE5DC /* MyDepressionApp */;
 			targetProxy = 3FC342361B236ACA007BE5DC /* PBXContainerItemProxy */;
 		};
+		CD9926071B2D11690056D9C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CD9925F91B2D11680056D9C8 /* YouTubePlayer */;
+			targetProxy = CD9926061B2D11690056D9C8 /* PBXContainerItemProxy */;
+		};
+		CD9926091B2D11690056D9C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3FC3421F1B236ACA007BE5DC /* MyDepressionApp */;
+			targetProxy = CD9926081B2D11690056D9C8 /* PBXContainerItemProxy */;
+		};
+		CD9926101B2D11690056D9C8 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = CD9925F91B2D11680056D9C8 /* YouTubePlayer */;
+			targetProxy = CD99260F1B2D11690056D9C8 /* PBXContainerItemProxy */;
+		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
@@ -240,6 +768,9 @@
 			isa = PBXVariantGroup;
 			children = (
 				3FC3422A1B236ACA007BE5DC /* Base */,
+				CD594B271B2F8CDC00D46534 /* de */,
+				CD594B291B2F8D1400D46534 /* hi-IN */,
+				CD594B2B1B2F8D3500D46534 /* es */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -248,8 +779,51 @@
 			isa = PBXVariantGroup;
 			children = (
 				3FC3422F1B236ACA007BE5DC /* Base */,
+				CD594B281B2F8CDC00D46534 /* de */,
+				CD594B2A1B2F8D1400D46534 /* hi-IN */,
+				CD594B2C1B2F8D3500D46534 /* es */,
 			);
 			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+		CD594B311B2FA63C00D46534 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD594B301B2FA63C00D46534 /* hi-IN */,
+				CD594B411B2FA65800D46534 /* es */,
+				CD594B451B2FA67800D46534 /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CD594B361B2FA63D00D46534 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD594B351B2FA63D00D46534 /* hi-IN */,
+				CD594B421B2FA65800D46534 /* es */,
+				CD594B461B2FA67800D46534 /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CD594B3B1B2FA63D00D46534 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD594B3A1B2FA63D00D46534 /* hi-IN */,
+				CD594B431B2FA65800D46534 /* es */,
+				CD594B471B2FA67800D46534 /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		CD594B401B2FA63D00D46534 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CD594B3F1B2FA63D00D46534 /* hi-IN */,
+				CD594B441B2FA65800D46534 /* es */,
+				CD594B481B2FA67800D46534 /* de */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -340,9 +914,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/MyDepressionApp",
+				);
 				INFOPLIST_FILE = MyDepressionApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "MyDepressionApp/MyDepressionApp-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -350,9 +931,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/MyDepressionApp",
+				);
 				INFOPLIST_FILE = MyDepressionApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "MyDepressionApp/MyDepressionApp-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -390,6 +977,83 @@
 			};
 			name = Release;
 		};
+		CD9926141B2D11690056D9C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = YouTubePlayer/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		CD9926151B2D11690056D9C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = YouTubePlayer/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		CD9926181B2D11690056D9C8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = YouTubePlayerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyDepressionApp.app/MyDepressionApp";
+			};
+			name = Debug;
+		};
+		CD9926191B2D11690056D9C8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = YouTubePlayerTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MyDepressionApp.app/MyDepressionApp";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -409,6 +1073,7 @@
 				3FC342411B236ACA007BE5DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FC342421B236ACA007BE5DC /* Build configuration list for PBXNativeTarget "MyDepressionAppTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +1082,25 @@
 				3FC342441B236ACA007BE5DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD9926131B2D11690056D9C8 /* Build configuration list for PBXNativeTarget "YouTubePlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD9926141B2D11690056D9C8 /* Debug */,
+				CD9926151B2D11690056D9C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CD9926171B2D11690056D9C8 /* Build configuration list for PBXNativeTarget "YouTubePlayerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CD9926181B2D11690056D9C8 /* Debug */,
+				CD9926191B2D11690056D9C8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

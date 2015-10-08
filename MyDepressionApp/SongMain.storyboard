@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7702" systemVersion="14D136" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="9lR-Z2-aek">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7701"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--Song-->
+        <scene sceneID="bSJ-vT-Vo5">
+            <objects>
+                <viewController id="9lR-Z2-aek" customClass="Song" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="fBa-lx-28T"/>
+                        <viewControllerLayoutGuide type="bottom" id="pLc-nR-XTR"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Bek-1o-5yJ">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <containerView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Rhr-gK-Jgn">
+                                <rect key="frame" x="64" y="130" width="443" height="286"/>
+                                <connections>
+                                    <segue destination="ZcL-6m-Sui" kind="embed" id="hKt-yh-kXm"/>
+                                </connections>
+                            </containerView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uPX-x5-Zmi">
+                                <rect key="frame" x="541" y="562" width="43" height="30"/>
+                                <state key="normal" title="Pause">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="pauseButton:" destination="9lR-Z2-aek" eventType="touchUpInside" id="Auv-6v-XEp"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="psd-SV-1U9">
+                                <rect key="frame" x="16" y="550" width="30" height="30"/>
+                                <state key="normal" title="Play">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="playButton:" destination="9lR-Z2-aek" eventType="touchUpInside" id="QaU-Sh-9go"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Rhr-gK-Jgn" firstAttribute="top" secondItem="fBa-lx-28T" secondAttribute="bottom" constant="110" id="M38-l4-jnz"/>
+                            <constraint firstItem="pLc-nR-XTR" firstAttribute="top" secondItem="psd-SV-1U9" secondAttribute="bottom" constant="20" id="RVl-wc-qQz"/>
+                            <constraint firstAttribute="centerY" secondItem="Rhr-gK-Jgn" secondAttribute="centerY" constant="27" id="VTZ-LB-inY"/>
+                            <constraint firstItem="Rhr-gK-Jgn" firstAttribute="leading" secondItem="Bek-1o-5yJ" secondAttribute="leadingMargin" constant="48" id="Yza-4K-hLq"/>
+                            <constraint firstItem="uPX-x5-Zmi" firstAttribute="trailing" secondItem="Bek-1o-5yJ" secondAttribute="trailingMargin" id="ZKj-MV-Xyp"/>
+                            <constraint firstItem="pLc-nR-XTR" firstAttribute="top" secondItem="uPX-x5-Zmi" secondAttribute="bottom" constant="8" id="cVz-y0-wNX"/>
+                            <constraint firstAttribute="centerX" secondItem="Rhr-gK-Jgn" secondAttribute="centerX" constant="14.5" id="jYP-ti-fwv"/>
+                            <constraint firstItem="psd-SV-1U9" firstAttribute="leading" secondItem="Bek-1o-5yJ" secondAttribute="leadingMargin" id="mpE-Js-HVh"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="smF-P6-hsF" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="606" y="270"/>
+        </scene>
+        <!--Table View Controller-->
+        <scene sceneID="NKp-Ee-ghv">
+            <objects>
+                <tableViewController id="ZcL-6m-Sui" customClass="TableViewController" customModule="MyDepressionApp" customModuleProvider="target" sceneMemberID="viewController">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="1kS-Sh-d7l">
+                        <rect key="frame" x="0.0" y="0.0" width="443" height="286"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" id="qTd-We-0ad">
+                                <autoresizingMask key="autoresizingMask"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="qTd-We-0ad" id="R4n-Zf-4U9">
+                                    <autoresizingMask key="autoresizingMask"/>
+                                </tableViewCellContentView>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="ZcL-6m-Sui" id="hWs-lo-K59"/>
+                            <outlet property="delegate" destination="ZcL-6m-Sui" id="0xc-MJ-T8L"/>
+                        </connections>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="jsm-nL-dIw"/>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="WpP-sU-blq" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1236" y="195"/>
+        </scene>
+    </scenes>
+</document>
